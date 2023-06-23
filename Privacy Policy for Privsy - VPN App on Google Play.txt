@@ -1,0 +1,82 @@
+﻿Privacy Policy for Privsy - VPN App on Google Play
+
+
+Effective Date: 23.06.2023
+
+
+Thank you for choosing Privsy, a VPN (Virtual Private Network) app developed by [Your Company Name]. This Privacy Policy describes how we collect, use, and protect your personal information when you use our Privsy app available on the Google Play Store. By installing and using Privsy, you agree to the practices described in this Privacy Policy.
+
+
+1. Information We Collect
+
+
+1.1 Personal Information:
+We may collect the following personal information from you when you use Privsy:
+- Contact information (such as name and email address) when you provide it to us voluntarily.
+- Payment information (such as credit card details) when you make a purchase within the app.
+- User credentials (username and password) for authentication purposes.
+
+
+1.2 Usage Information:
+We may collect usage information related to your interaction with the Privsy app, including but not limited to:
+- Device information (such as device model, operating system version, and unique device identifiers).
+- Network information (such as IP address, connection timestamps, and bandwidth usage).
+- App usage data (such as the features you use, websites visited through the app, and duration of app sessions).
+
+
+2. Use of Information
+
+
+2.1 Providing and Improving Services:
+We use the collected information to provide you with the Privsy services and to enhance your user experience. This includes:
+- Authenticating and authorizing your access to the Privsy app.
+- Delivering the requested services, such as establishing VPN connections and encrypting your internet traffic.
+- Analyzing usage patterns to improve and optimize our app's performance, features, and functionality.
+- Responding to your inquiries, feedback, or support requests.
+
+
+2.2 Marketing and Communications:
+We may use your contact information to send you promotional emails, newsletters, or other communications related to Privsy. You can opt-out of receiving such communications at any time by following the instructions provided in the emails or by contacting us directly.
+
+
+3. Data Retention
+
+
+We retain your personal information only for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law. When your personal information is no longer needed, we will securely delete or anonymize it.
+
+
+4. Data Security
+
+
+We take appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, please be aware that no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+
+5. Sharing of Information
+
+
+We do not sell, trade, or otherwise transfer your personal information to third parties without your consent, except in the following circumstances:
+- Service Providers: We may engage trusted third-party service providers to perform certain functions or services on our behalf, such as payment processing or data analytics. These providers will have access to your personal information only to the extent necessary to perform their functions and are obligated to maintain its confidentiality.
+
+
+6. Children's Privacy
+
+
+Privsy is not intended for use by individuals under the age of 18. We do not knowingly collect personal information from children under the age of 18. If we become aware that we have inadvertently collected personal information from a child under 18, we will take reasonable steps to delete it as soon as possible.
+
+
+7. Changes to this Privacy Policy
+
+
+We reserve the right to update or modify this Privacy Policy at any time. If we make any material changes, we will notify you by email or through a notice within the Privsy app. Your continued use of the Privsy app after any changes or revisions to this Privacy Policy indicates your agreement to the revised terms.
+
+
+8. Contact Us
+
+
+If you have any questions, concerns, or suggestions regarding this Privacy Policy or
+
+
+ our privacy practices, please contact us at aneuburger@privatecommunicationscorp.com.
+
+
+By using the Privsy app, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your information as described herein.
